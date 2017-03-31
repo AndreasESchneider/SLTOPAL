@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<ArrayOfArrayOfArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ArrayOfArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\schneana\Documents\Visual Studio 2015\Projects\SLTopal\SlTopal\slToTopalGui\App.config</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>slToTopalGui\slToTopalGui.csproj</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>slToTopalClient\slToTopalClient.csproj</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>slClientBus\slClientBus.csproj</string>
+    </ArrayOfString>
+  </ArrayOfArrayOfString>
+</ArrayOfArrayOfArrayOfString>
